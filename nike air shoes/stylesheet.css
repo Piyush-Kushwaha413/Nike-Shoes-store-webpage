@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+
+}
+
+.wapper{
+    overflow-x: hidden;
+    overflow-y: hidden;
+    object-fit: contain;
+}
+.navbar{
+    font-family: 'Monomaniac One', sans-serif;
+}
+.fgabriela{
+    
+    font-family: 'Gabriela', serif;
+}
+.texts{
+    word-spacing: 1%;
+}
+
